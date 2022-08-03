@@ -1,0 +1,13 @@
+Sign in (Linkedin) scenarios
+1. Verify sign in providing valid information
+2. Verify sign in leaving email or number field empty (using a valid password)
+3. Verify sign in leaving email or number field empty (using an invalid password)
+4. Verify sign in leaving password field empty (using a valid email or phone number
+5. Verify sign in leaving password field empty (using an invalid email or phone number)
+6. Try copy and past password into any text redactor
+7. Verify clicking on the "show" to see the password
+8. Verify sign in 10 times using a wrong password
+9. Verify sign in while making a spelling mistake in the email field (@gmil.com)
+10. Verify using an old password after changing it
+11. Verify by using an invalid phone number (invalid format)
+
